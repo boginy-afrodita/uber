@@ -1,0 +1,7 @@
+@mixin hover-btn {
+    &:hover{
+        background-image: none;
+        background-color: $primary_color;
+    }
+    
+}
